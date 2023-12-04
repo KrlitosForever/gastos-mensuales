@@ -32,7 +32,7 @@ st.sidebar.header("Ingrese sus Gastos")
 fecha = st.sidebar.date_input("Fecha", pd.to_datetime("today"))
 
 # Obtener la categoría del gasto
-categorias = ["Comida", "Transporte", "Entretenimiento", "Otros"]
+categorias = ["Comida", "Transporte","Peaje","Entretenimiento","Domestico","Arriendo", "Otros"]
 categoria = st.sidebar.selectbox("Categoría", categorias)
 
 # Obtener el monto del gasto
