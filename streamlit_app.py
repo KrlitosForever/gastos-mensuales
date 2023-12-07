@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import locale
 
 # Establecer el idioma a español
-locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
+#locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
 
 # Crear una conexión a la base de datos SQLite (o crear la base de datos si no existe)
 conn = sqlite3.connect('gastos.db')
