@@ -1,24 +1,24 @@
-# Aplicación de control de Gastos
+# Aplicación de control de Gastos del hogar 🏡
 
-# Índice
+# ℹ️ Índice 
 - [Introducción](#introducción)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
 
 
-# Introducción
+# 📝 Introducción 
 
 A continuación se detalla el desarrollo de una aplicación simple para el registro de gastos del hogar utilizando Streamlit y SQLite. La aplicación permite a los usuarios agregar, visualizar y analizar sus gastos mensuales de manera eficiente.
 
-# Requisitos
+# ⚙️ Requisitos
 
 Para ejecutar la aplicación, se requieren los siguientes elementos:
 
 - **Python:** La aplicación está escrita en Python, por lo que necesitarás tener Python instalado en tu sistema. Puedes descargar la última versión de Python desde [python.org](https://www.python.org/downloads/).
 
 
-# Instalación
+# 💻 Instalación
 
 1. **Clonar el Repositorio:**
    Descarga o clona el repositorio desde GitHub:
@@ -51,7 +51,7 @@ Para ejecutar la aplicación, se requieren los siguientes elementos:
    pip install -r requirements.txt
    ```
 
-# Uso
+# 🧑‍💻 Uso
 
 1. **Ejecutar la Aplicación:**
    Desde el directorio del proyecto, ejecuta el siguiente comando para iniciar la aplicación:
@@ -68,7 +68,7 @@ Para ejecutar la aplicación, se requieren los siguientes elementos:
 3. **Visualizar Gastos:**
    Observa la tabla de registros y los gráficos de distribución de gastos por categoría.
 
-## Donaciones
+## 🫶 Donaciones ❤️
 Si quieres que el canal siga creciendo puedes ayudar comprandome un cafe🥤
 
 <a href="https://www.buymeacoffee.com/KrlitosForever" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
